@@ -19,4 +19,6 @@ Designed with a focus on memory efficiency and clean architecture, this project 
 *   **Core Concepts:** Pointers, Dynamic Memory Allocation (`malloc`/`free`), Structs, Singly Linked Lists
 *   **Storage:** Binary & Text File I/O (`fread`, `fwrite`, `fprintf`, `fscanf`)
 
-*Note: On the first run, ensure the librarian authentication file (`librarian.txt`) is configured to access the admin panel.*
+## How to Use
+* On the first run, ensure the librarian authentication file (`librarian.txt`) is configured to access the admin panel.
+* Students need to be added by a librarian.
